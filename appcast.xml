@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PhiaDirect</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 31 Dec 2025 04:36:57 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/prod/PhiaDirect-1.1.dmg" length="137803306" type="application/octet-stream" sparkle:edSignature="Q437unIGfWt+eL2e+klr8Hah6jNNXfxykyjZFjMDg5S6aBj0JdEIg1NrfEUPPiDP2asp0XP8sM+2vRVinqRrBw=="/>
+        </item>
+    </channel>
+</rss>
