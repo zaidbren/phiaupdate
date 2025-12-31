@@ -3,12 +3,12 @@
     <channel>
         <title>PhiaDirect</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Wed, 31 Dec 2025 04:36:57 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.5</title>
+            <pubDate>Wed, 31 Dec 2025 13:44:44 +0530</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/prod/PhiaDirect-1.1.dmg" length="137803306" type="application/octet-stream" sparkle:edSignature="Q437unIGfWt+eL2e+klr8Hah6jNNXfxykyjZFjMDg5S6aBj0JdEIg1NrfEUPPiDP2asp0XP8sM+2vRVinqRrBw=="/>
+            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/prod/PhiaDirect-1.2.dmg" length="137807692" type="application/octet-stream" sparkle:edSignature="vm0O0Uix4sVOLd+cr+lbviDrHc6S9I2fT8TC6HX9FJ1p2NTzcQmS9ycOqzkp/dX9NZSYktaRbvwQOOPbQ0dlAw=="/>
         </item>
     </channel>
 </rss>
