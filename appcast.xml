@@ -3,12 +3,12 @@
     <channel>
         <title>Phia</title>
         <item>
-            <title>2.10.1</title>
-            <pubDate>Fri, 20 Feb 2026 02:55:04 +0530</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>2.10.1</sparkle:shortVersionString>
+            <title>2.10.2</title>
+            <pubDate>Fri, 20 Feb 2026 18:25:45 +0530</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>2.10.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/v2.10.1/Phia-2.10.1.dmg" length="167581438" type="application/octet-stream" sparkle:edSignature="DbVMeeRYsWyEmXCv0KCFcq6t5hvxRtwHqSQuLuUGKbT64uf8duM3PBkPScwmY6zphThSu2o5LueMgdrsiTELCA=="/>
+            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/v2.10.2/Phia-2.10.2.dmg" length="167576207" type="application/octet-stream" sparkle:edSignature="JW9hPopoCYx5ClRjo5Aaq4gHrC/ieo4dn7/5WwiOUKRhyeH9bnqWY2gbos2+X/ZXFlmWB/Nv3tY72ppn+Q2UBg=="/>
         </item>
     </channel>
 </rss>
