@@ -3,12 +3,12 @@
     <channel>
         <title>Phia</title>
         <item>
-            <title>3.3.3</title>
-            <pubDate>Tue, 17 Mar 2026 18:41:05 +0530</pubDate>
-            <sparkle:version>75</sparkle:version>
-            <sparkle:shortVersionString>3.3.3</sparkle:shortVersionString>
+            <title>3.4.0</title>
+            <pubDate>Wed, 18 Mar 2026 19:34:11 +0530</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/v3.3.3/Phia-3.3.3.dmg" length="107735109" type="application/octet-stream" sparkle:edSignature="fO5DjmroEkW7YhR7iSGSgAVfEZGYTMj0FJ17jFkeFp9ti6mxaUEUPrMdaz/R4AQJ0wUdE1ovmAyeQ9AW64QmBQ=="/>
+            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/v3.4.0/Phia-3.4.0.dmg" length="107857297" type="application/octet-stream" sparkle:edSignature="RREDN84U141It0p/3fv7BOjPmIDMQ3HfAIx8RwcG7SuhZ5T7KkrEnO81F3VI7T5KcQzdIdjsjv1RHhiSRnLnCw=="/>
         </item>
     </channel>
 </rss>
