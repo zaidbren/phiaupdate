@@ -3,12 +3,12 @@
     <channel>
         <title>Dina</title>
         <item>
-            <title>3.6.8</title>
-            <pubDate>Sat, 18 Apr 2026 17:31:05 +0530</pubDate>
-            <sparkle:version>91</sparkle:version>
-            <sparkle:shortVersionString>3.6.8</sparkle:shortVersionString>
+            <title>3.7.0</title>
+            <pubDate>Fri, 01 May 2026 20:14:38 +0530</pubDate>
+            <sparkle:version>95</sparkle:version>
+            <sparkle:shortVersionString>3.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/v3.6.8/Dina-3.6.8.dmg" length="122845446" type="application/octet-stream" sparkle:edSignature="9bBGeoLzICJfxtJ6lhe/kyNIOn8HuSiFJcpX41mxb3AawPOIEtgXlUqIBJ0dgMgCMa3uBg8FoGuOWO3mPYS1Ag=="/>
+            <enclosure url="https://github.com/zaidbren/phiaupdate/releases/download/v3.7.0/Dina-3.7.0.dmg" length="180750115" type="application/octet-stream" sparkle:edSignature="5Ed+XOmJ5kcshyzo00kN5r/slgCBborqzvQj7CY/0+ScWLoSgawbK6A2N8FnA+CYusTDt5DGxRaS5P7m1bABAQ=="/>
         </item>
     </channel>
 </rss>
